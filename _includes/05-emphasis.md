@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Github is cool*
+_Markdown is even nicer_
+
+**Github is cool**
+__Markdown is even nicer__
+
+_Github **is** cool_
